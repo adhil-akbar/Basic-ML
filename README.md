@@ -4,7 +4,7 @@ This repository provides a collection of Jupyter notebooks and resources focused
 
 ## Repository Contents
 
-- **Building-Basic-Models**: Implementation of basic ML Models from scratch using only foundational libraries like NumPy.
+- **Building-Basic-Models**: Implementation of basic ML Models (Lasso/Linear/Logistic Regression, SVM) from scratch using only foundational libraries like NumPy.
 - **Logistic-Regression**: Implementation and explanation of logistic regression for classification tasks.
 - **Support-Vector-Machine**: Demonstrates the use of Support Vector Machines (SVM) for classification.
 - **XGBoost-Regressor**: Covers the application of XGBoost for regression tasks.
